@@ -1,0 +1,10 @@
+cUiAddMessageView {XOR} {abstract.pin} {515} {(ABS-515): Cell XOR: The prBoundary does not enclose all cellview geometries. This is because not all layers with geometry for calculating prBoundary have been specified in the "Using geometry on layers" field on the "Boundary" tab. Ensure that all the required layers have been specified in this field.}
+cUiAddMessageView {XOR} {abstract.pin} {501} {(ABS-501): Cell XOR: There are 5 existing terminals. No pins will be added for them.}
+cUiAddMessageView {XOR} {abstract.ext} {602} {(ABS-602): Cell XOR: extracting 5 nets}
+cUiAddMessageView {XOR} {abstract.ext} {604} {(ABS-604): Cell XOR: extracting the net IN_A, 1 of 5.}
+cUiAddMessageView {XOR} {abstract.ext} {604} {(ABS-604): Cell XOR: extracting the net IN_B, 2 of 5.}
+cUiAddMessageView {XOR} {abstract.ext} {604} {(ABS-604): Cell XOR: extracting the net OUT, 3 of 5.}
+cUiAddMessageView {XOR} {abstract.ext} {604} {(ABS-604): Cell XOR: extracting the net vdd, 4 of 5.}
+cUiAddMessageView {XOR} {abstract.ext} {604} {(ABS-604): Cell XOR: extracting the net gnd, 5 of 5.}
+cUiAddMessageView {XOR} {abstract} {1079} {(ABS-1079): Cell XOR: The x prBoundary's  3.64 dimension is not a multiple of Metal2 pitch 0.2}
+cUiAddMessageView {XOR} {abstract} {326} {(ABS-326): Unable to get the logical view of Cell XOR, Bus Annotation of Abstract can not be done}

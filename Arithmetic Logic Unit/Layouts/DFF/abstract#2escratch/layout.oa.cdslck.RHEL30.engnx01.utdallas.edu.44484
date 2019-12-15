@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sxs180355
+HostName                       engnx01.utdallas.edu
+ProcessIdentifier              44484
+ProcessCreationTime_UTC        1576037278
+ProcessCreationTime_Readable   Tue Dec 10 22:07:58 2019 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/010/s/sx/sxs180355/cad/gf65/tutorial/DFF/abstract#2escratch/layout.oa.cdslck.dirlck
+TimeEditLocked                 Tue Dec 10 22:08:01 2019 CST

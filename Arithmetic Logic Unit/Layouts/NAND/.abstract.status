@@ -1,0 +1,7 @@
+cUiMoveCellToBin {NAND} {Core}
+cUiSetViewStatus {NAND} {layout} {1}
+cUiSetViewStatus {NAND} {logical} {0}
+cUiSetViewStatus {NAND} {abstract.pin} {3}
+cUiSetViewStatus {NAND} {abstract.ext} {1}
+cUiSetViewStatus {NAND} {abstract} {19}
+cUiSetViewStatus {NAND} {abstract.ver} {0}

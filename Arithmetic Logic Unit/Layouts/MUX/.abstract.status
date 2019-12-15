@@ -1,0 +1,7 @@
+cUiMoveCellToBin {MUX} {Core}
+cUiSetViewStatus {MUX} {layout} {1}
+cUiSetViewStatus {MUX} {logical} {0}
+cUiSetViewStatus {MUX} {abstract.pin} {3}
+cUiSetViewStatus {MUX} {abstract.ext} {1}
+cUiSetViewStatus {MUX} {abstract} {19}
+cUiSetViewStatus {MUX} {abstract.ver} {0}

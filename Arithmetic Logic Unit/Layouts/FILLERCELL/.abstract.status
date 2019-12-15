@@ -1,0 +1,7 @@
+cUiMoveCellToBin {FILLERCELL} {Core}
+cUiSetViewStatus {FILLERCELL} {layout} {1}
+cUiSetViewStatus {FILLERCELL} {logical} {0}
+cUiSetViewStatus {FILLERCELL} {abstract.pin} {3}
+cUiSetViewStatus {FILLERCELL} {abstract.ext} {1}
+cUiSetViewStatus {FILLERCELL} {abstract} {19}
+cUiSetViewStatus {FILLERCELL} {abstract.ver} {0}
